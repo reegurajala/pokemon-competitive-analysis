@@ -1,0 +1,859 @@
+name,dex_number,tier,abilities,types,is_fully_evolved
+bulbasaur,1,LC,"Overgrow, Chlorophyll","Grass, Poison",False
+voltorb,100,LC,"Soundproof, Static, Aftermath",Electric,False
+voltorb-hisui,100,NFE,"Soundproof, Static, Aftermath","Electric, Grass",False
+gholdengo,1000,OU,Good as Gold,"Steel, Ghost",True
+wo-chien,1001,PU,Tablets of Ruin,"Dark, Grass",True
+chien-pao,1002,Uber,Sword of Ruin,"Dark, Ice",True
+ting-lu,1003,OU,Vessel of Ruin,"Dark, Ground",True
+chi-yu,1004,Uber,Beads of Ruin,"Dark, Fire",True
+roaring-moon,1005,Uber,Protosynthesis,"Dragon, Dark",True
+iron-valiant,1006,OU,Quark Drive,"Fairy, Fighting",True
+koraidon,1007,Uber,Orichalcum Pulse,"Fighting, Dragon",True
+miraidon,1008,AG,Hadron Engine,"Electric, Dragon",True
+walking-wake,1009,OU,Protosynthesis,"Water, Dragon",True
+electrode,101,ZU,"Soundproof, Static, Aftermath",Electric,True
+electrode-hisui,101,ZUBL,"Soundproof, Static, Aftermath","Electric, Grass",True
+iron-leaves,1010,RUBL,Quark Drive,"Grass, Psychic",True
+dipplin,1011,NFE,"Supersweet Syrup, Gluttony, Sticky Hold","Grass, Dragon",False
+poltchageist,1012,LC,"Hospitality, Heatproof","Grass, Ghost",False
+sinistcha,1013,UU,"Hospitality, Heatproof","Grass, Ghost",True
+okidogi,1014,UUBL,"Toxic Chain, Guard Dog","Poison, Fighting",True
+munkidori,1015,NU,"Toxic Chain, Frisk","Poison, Psychic",True
+fezandipiti,1016,UU,"Toxic Chain, Technician","Poison, Fairy",True
+ogerpon,1017,OU,Defiant,Grass,True
+ogerpon-cornerstone-mask,1017,UUBL,Sturdy,"Grass, Rock",True
+ogerpon-hearthflame-mask,1017,Uber,Mold Breaker,"Grass, Fire",True
+ogerpon-wellspring-mask,1017,OU,Water Absorb,"Grass, Water",True
+archaludon,1018,Uber,"Stamina, Sturdy, Stalwart","Steel, Dragon",True
+hydrapple,1019,UU,"Supersweet Syrup, Regenerator, Sticky Hold","Grass, Dragon",True
+exeggcute,102,LC,"Chlorophyll, Harvest","Grass, Psychic",False
+gouging-fire,1020,Uber,Protosynthesis,"Fire, Dragon",True
+raging-bolt,1021,OU,Protosynthesis,"Electric, Dragon",True
+iron-boulder,1022,UUBL,Quark Drive,"Rock, Psychic",True
+iron-crown,1023,OU,Quark Drive,"Steel, Psychic",True
+terapagos,1024,Uber,Tera Shift,Normal,True
+pecharunt,1025,OU,Poison Puppeteer,"Poison, Ghost",True
+exeggutor,103,ZU,"Chlorophyll, Harvest","Grass, Psychic",True
+exeggutor-alola,103,ZU,"Frisk, Harvest","Grass, Dragon",True
+hitmonlee,106,PU,"Limber, Reckless, Unburden",Fighting,True
+hitmonchan,107,ZU,"Keen Eye, Iron Fist, Inner Focus",Fighting,True
+koffing,109,LC,"Levitate, Neutralizing Gas, Stench",Poison,False
+weezing,110,ZU,"Levitate, Neutralizing Gas, Stench",Poison,True
+weezing-galar,110,OU,"Levitate, Neutralizing Gas, Misty Surge","Poison, Fairy",True
+rhyhorn,111,LC,"Lightning Rod, Rock Head, Reckless","Ground, Rock",False
+rhydon,112,PU,"Lightning Rod, Rock Head, Reckless","Ground, Rock",False
+chansey,113,NU,"Natural Cure, Serene Grace, Healer",Normal,False
+horsea,116,LC,"Swift Swim, Sniper, Damp",Water,False
+seadra,117,NFE,"Poison Point, Sniper, Damp",Water,False
+scyther,123,NU,"Swarm, Technician, Steadfast","Bug, Flying",False
+electabuzz,125,NFE,"Static, Vital Spirit",Electric,False
+magmar,126,NFE,"Flame Body, Vital Spirit",Fire,False
+tauros,128,ZU,"Intimidate, Anger Point, Sheer Force",Normal,True
+tauros-paldea-aqua-breed,128,NU,"Intimidate, Anger Point, Cud Chew","Fighting, Water",True
+tauros-paldea-blaze-breed,128,PU,"Intimidate, Anger Point, Cud Chew","Fighting, Fire",True
+tauros-paldea-combat-breed,128,ZU,"Intimidate, Anger Point, Cud Chew",Fighting,True
+magikarp,129,LC,"Swift Swim, Rattled",Water,False
+gyarados,130,RUBL,"Intimidate, Moxie","Water, Flying",True
+lapras,131,ZU,"Water Absorb, Shell Armor, Hydration","Water, Ice",True
+ditto,132,ZU,"Limber, Imposter",Normal,True
+eevee,133,LC,"Run Away, Adaptability, Anticipation",Normal,False
+vaporeon,134,NU,"Water Absorb, Hydration",Water,True
+jolteon,135,ZU,"Volt Absorb, Quick Feet",Electric,True
+flareon,136,ZU,"Flash Fire, Guts",Fire,True
+porygon,137,NFE,"Trace, Download, Analytic",Normal,False
+snorlax,143,PU,"Immunity, Thick Fat, Gluttony",Normal,True
+articuno,144,ZU,"Pressure, Snow Cloak","Ice, Flying",True
+articuno-galar,144,NU,Competitive,"Psychic, Flying",True
+zapdos,145,OU,"Pressure, Static","Electric, Flying",True
+zapdos-galar,145,UU,Defiant,"Fighting, Flying",True
+moltres,146,OU,"Pressure, Flame Body","Fire, Flying",True
+moltres-galar,146,UUBL,Berserk,"Dark, Flying",True
+dratini,147,LC,"Shed Skin, Marvel Scale",Dragon,False
+dragonair,148,NFE,"Shed Skin, Marvel Scale",Dragon,False
+dragonite,149,OU,"Inner Focus, Multiscale","Dragon, Flying",True
+mewtwo,150,Uber,"Pressure, Unnerve",Psychic,True
+mew,151,UU,Synchronize,Psychic,True
+chikorita,152,LC,"Overgrow, Leaf Guard",Grass,False
+bayleef,153,NFE,"Overgrow, Leaf Guard",Grass,False
+meganium,154,ZU,"Overgrow, Leaf Guard",Grass,True
+cyndaquil,155,LC,"Blaze, Flash Fire",Fire,False
+quilava,156,NFE,"Blaze, Flash Fire",Fire,False
+typhlosion,157,ZU,"Blaze, Flash Fire",Fire,True
+typhlosion-hisui,157,PU,"Blaze, Frisk","Fire, Ghost",True
+totodile,158,LC,"Torrent, Sheer Force",Water,False
+croconaw,159,NFE,"Torrent, Sheer Force",Water,False
+feraligatr,160,NUBL,"Torrent, Sheer Force",Water,True
+sentret,161,LC,"Run Away, Keen Eye, Frisk",Normal,False
+furret,162,ZU,"Run Away, Keen Eye, Frisk",Normal,True
+hoothoot,163,LC,"Insomnia, Keen Eye, Tinted Lens","Normal, Flying",False
+noctowl,164,ZU,"Insomnia, Keen Eye, Tinted Lens","Normal, Flying",True
+spinarak,167,LC,"Swarm, Insomnia, Sniper","Bug, Poison",False
+ariados,168,ZU,"Swarm, Insomnia, Sniper","Bug, Poison",True
+chinchou,170,LC,"Volt Absorb, Illuminate, Water Absorb","Water, Electric",False
+lanturn,171,PU,"Volt Absorb, Illuminate, Water Absorb","Water, Electric",True
+pichu,172,LC,"Static, Lightning Rod",Electric,False
+cleffa,173,LC,"Cute Charm, Magic Guard, Friend Guard",Fairy,False
+igglybuff,174,LC,"Cute Charm, Competitive, Friend Guard","Normal, Fairy",False
+mareep,179,LC,"Static, Plus",Electric,False
+flaaffy,180,NFE,"Static, Plus",Electric,False
+ampharos,181,ZU,"Static, Plus",Electric,True
+bellossom,182,ZUBL,"Chlorophyll, Healer",Grass,True
+marill,183,NFE,"Thick Fat, Huge Power, Sap Sipper","Water, Fairy",False
+azumarill,184,UU,"Thick Fat, Huge Power, Sap Sipper","Water, Fairy",True
+sudowoodo,185,ZU,"Sturdy, Rock Head, Rattled",Rock,True
+politoed,186,RU,"Water Absorb, Damp, Drizzle",Water,True
+hoppip,187,LC,"Chlorophyll, Leaf Guard, Infiltrator","Grass, Flying",False
+skiploom,188,NFE,"Chlorophyll, Leaf Guard, Infiltrator","Grass, Flying",False
+jumpluff,189,ZU,"Chlorophyll, Leaf Guard, Infiltrator","Grass, Flying",True
+aipom,190,NFE,"Run Away, Pickup, Skill Link",Normal,False
+sunkern,191,LC,"Chlorophyll, Solar Power, Early Bird",Grass,False
+sunflora,192,ZU,"Chlorophyll, Solar Power, Early Bird",Grass,True
+yanma,193,NFE,"Speed Boost, Compound Eyes, Frisk","Bug, Flying",False
+wooper,194,LC,"Damp, Water Absorb, Unaware","Water, Ground",False
+wooper-paldea,194,LC,"Poison Point, Water Absorb, Unaware","Poison, Ground",False
+quagsire,195,RU,"Damp, Water Absorb, Unaware","Water, Ground",True
+espeon,196,NU,"Synchronize, Magic Bounce",Psychic,True
+umbreon,197,RU,"Synchronize, Inner Focus",Dark,True
+murkrow,198,NFE,"Insomnia, Super Luck, Prankster","Dark, Flying",False
+slowking,199,UU,"Oblivious, Own Tempo, Regenerator","Water, Psychic",True
+slowking-galar,199,OU,"Curious Medicine, Own Tempo, Regenerator","Poison, Psychic",True
+ivysaur,2,NFE,"Overgrow, Chlorophyll","Grass, Poison",False
+misdreavus,200,NFE,Levitate,Ghost,False
+girafarig,203,NFE,"Inner Focus, Early Bird, Sap Sipper","Normal, Psychic",False
+pineco,204,LC,"Sturdy, Overcoat",Bug,False
+forretress,205,RU,"Sturdy, Overcoat","Bug, Steel",True
+dunsparce,206,NFE,"Serene Grace, Run Away, Rattled",Normal,False
+gligar,207,NU,"Hyper Cutter, Sand Veil, Immunity","Ground, Flying",False
+snubbull,209,LC,"Intimidate, Run Away, Rattled",Fairy,False
+granbull,210,ZU,"Intimidate, Quick Feet, Rattled",Fairy,True
+qwilfish,211,PU,"Poison Point, Swift Swim, Intimidate","Water, Poison",True
+qwilfish-hisui,211,PU,"Poison Point, Swift Swim, Intimidate","Dark, Poison",False
+scizor,212,UU,"Swarm, Technician, Light Metal","Bug, Steel",True
+heracross,214,PU,"Swarm, Guts, Moxie","Bug, Fighting",True
+sneasel,215,NFE,"Inner Focus, Keen Eye, Pickpocket","Dark, Ice",False
+sneasel-hisui,215,ZU,"Inner Focus, Keen Eye, Pickpocket","Fighting, Poison",False
+teddiursa,216,LC,"Pickup, Quick Feet, Honey Gather",Normal,False
+ursaring,217,NFE,"Guts, Quick Feet, Unnerve",Normal,False
+slugma,218,LC,"Magma Armor, Flame Body, Weak Armor",Fire,False
+magcargo,219,ZU,"Magma Armor, Flame Body, Weak Armor","Fire, Rock",True
+swinub,220,LC,"Oblivious, Snow Cloak, Thick Fat","Ice, Ground",False
+piloswine,221,NFE,"Oblivious, Snow Cloak, Thick Fat","Ice, Ground",False
+delibird,225,ZU,"Vital Spirit, Hustle, Insomnia","Ice, Flying",True
+skarmory,227,UU,"Keen Eye, Sturdy, Weak Armor","Steel, Flying",True
+houndour,228,LC,"Early Bird, Flash Fire, Unnerve","Dark, Fire",False
+houndoom,229,ZU,"Early Bird, Flash Fire, Unnerve","Dark, Fire",True
+ekans,23,LC,"Intimidate, Shed Skin, Unnerve",Poison,False
+kingdra,230,ZUBL,"Swift Swim, Sniper, Damp","Water, Dragon",True
+phanpy,231,LC,"Pickup, Sand Veil",Ground,False
+donphan,232,UU,"Sturdy, Sand Veil",Ground,True
+porygon2,233,PU,"Trace, Download, Analytic",Normal,False
+stantler,234,NFE,"Intimidate, Frisk, Sap Sipper",Normal,False
+smeargle,235,ZU,"Own Tempo, Technician, Moody",Normal,True
+tyrogue,236,LC,"Guts, Steadfast, Vital Spirit",Fighting,False
+hitmontop,237,ZU,"Intimidate, Technician, Steadfast",Fighting,True
+elekid,239,LC,"Static, Vital Spirit",Electric,False
+arbok,24,ZU,"Intimidate, Shed Skin, Unnerve",Poison,True
+magby,240,NFE,"Flame Body, Vital Spirit",Fire,False
+blissey,242,RU,"Natural Cure, Serene Grace, Healer",Normal,True
+raikou,243,NU,"Pressure, Inner Focus",Electric,True
+entei,244,RU,"Pressure, Inner Focus",Fire,True
+suicune,245,RU,"Pressure, Inner Focus",Water,True
+larvitar,246,LC,"Guts, Sand Veil","Rock, Ground",False
+pupitar,247,NFE,Shed Skin,"Rock, Ground",False
+tyranitar,248,OU,"Sand Stream, Unnerve","Rock, Dark",True
+lugia,249,Uber,"Pressure, Multiscale","Psychic, Flying",True
+pikachu,25,ZU,"Static, Lightning Rod",Electric,False
+pikachu-alola,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-hoenn,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-kalos,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-original,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-partner,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-sinnoh,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-unova,25,ZU,"Static, Lightning Rod",Electric,True
+pikachu-world,25,ZU,"Static, Lightning Rod",Electric,True
+ho-oh,250,Uber,"Pressure, Regenerator","Fire, Flying",True
+treecko,252,LC,"Overgrow, Unburden",Grass,False
+grovyle,253,NFE,"Overgrow, Unburden",Grass,False
+sceptile,254,ZU,"Overgrow, Unburden",Grass,True
+torchic,255,NFE,"Blaze, Speed Boost",Fire,False
+combusken,256,NFE,"Blaze, Speed Boost","Fire, Fighting",False
+blaziken,257,UUBL,"Blaze, Speed Boost","Fire, Fighting",True
+mudkip,258,LC,"Torrent, Damp",Water,False
+marshtomp,259,NFE,"Torrent, Damp","Water, Ground",False
+raichu,26,ZU,"Static, Lightning Rod",Electric,True
+raichu-alola,26,ZU,Surge Surfer,"Electric, Psychic",True
+swampert,260,NU,"Torrent, Damp","Water, Ground",True
+poochyena,261,LC,"Run Away, Quick Feet, Rattled",Dark,False
+mightyena,262,ZU,"Intimidate, Quick Feet, Moxie",Dark,True
+sandshrew,27,LC,"Sand Veil, Sand Rush",Ground,False
+sandshrew-alola,27,LC,"Snow Cloak, Slush Rush","Ice, Steel",False
+lotad,270,LC,"Swift Swim, Rain Dish, Own Tempo","Water, Grass",False
+lombre,271,NFE,"Swift Swim, Rain Dish, Own Tempo","Water, Grass",False
+ludicolo,272,ZU,"Swift Swim, Rain Dish, Own Tempo","Water, Grass",True
+seedot,273,LC,"Chlorophyll, Early Bird, Pickpocket",Grass,False
+nuzleaf,274,NFE,"Chlorophyll, Early Bird, Pickpocket","Grass, Dark",False
+shiftry,275,ZU,"Chlorophyll, Wind Rider, Pickpocket","Grass, Dark",True
+wingull,278,LC,"Keen Eye, Hydration, Rain Dish","Water, Flying",False
+pelipper,279,UUBL,"Keen Eye, Drizzle, Rain Dish","Water, Flying",True
+sandslash,28,ZU,"Sand Veil, Sand Rush",Ground,True
+sandslash-alola,28,PU,"Snow Cloak, Slush Rush","Ice, Steel",True
+ralts,280,LC,"Synchronize, Trace, Telepathy","Psychic, Fairy",False
+kirlia,281,NFE,"Synchronize, Trace, Telepathy","Psychic, Fairy",False
+gardevoir,282,RU,"Synchronize, Trace, Telepathy","Psychic, Fairy",True
+surskit,283,LC,"Swift Swim, Rain Dish","Bug, Water",False
+masquerain,284,ZU,"Intimidate, Unnerve","Bug, Flying",True
+shroomish,285,LC,"Effect Spore, Poison Heal, Quick Feet",Grass,False
+breloom,286,RU,"Effect Spore, Poison Heal, Technician","Grass, Fighting",True
+slakoth,287,LC,Truant,Normal,False
+vigoroth,288,NFE,Vital Spirit,Normal,False
+slaking,289,ZU,Truant,Normal,True
+makuhita,296,LC,"Thick Fat, Guts, Sheer Force",Fighting,False
+hariyama,297,PU,"Thick Fat, Guts, Sheer Force",Fighting,True
+azurill,298,LC,"Thick Fat, Huge Power, Sap Sipper","Normal, Fairy",False
+nosepass,299,LC,"Sturdy, Magnet Pull, Sand Force",Rock,False
+venusaur,3,ZU,"Overgrow, Chlorophyll","Grass, Poison",True
+sableye,302,ZU,"Keen Eye, Stall, Prankster","Dark, Ghost",True
+meditite,307,NFE,"Pure Power, Telepathy","Fighting, Psychic",False
+medicham,308,ZU,"Pure Power, Telepathy","Fighting, Psychic",True
+plusle,311,ZU,"Plus, Lightning Rod",Electric,True
+minun,312,ZU,"Minus, Volt Absorb",Electric,True
+volbeat,313,ZU,"Illuminate, Swarm, Prankster",Bug,True
+illumise,314,ZU,"Oblivious, Tinted Lens, Prankster",Bug,True
+gulpin,316,LC,"Liquid Ooze, Sticky Hold, Gluttony",Poison,False
+swalot,317,ZU,"Liquid Ooze, Sticky Hold, Gluttony",Poison,True
+numel,322,LC,"Oblivious, Simple, Own Tempo","Fire, Ground",False
+camerupt,323,ZU,"Magma Armor, Solid Rock, Anger Point","Fire, Ground",True
+torkoal,324,ZU,"White Smoke, Drought, Shell Armor",Fire,True
+spoink,325,LC,"Thick Fat, Own Tempo, Gluttony",Psychic,False
+grumpig,326,ZU,"Thick Fat, Own Tempo, Gluttony",Psychic,True
+trapinch,328,LC,"Hyper Cutter, Arena Trap, Sheer Force",Ground,False
+vibrava,329,NFE,Levitate,"Ground, Dragon",False
+flygon,330,NU,Levitate,"Ground, Dragon",True
+cacnea,331,LC,"Sand Veil, Water Absorb",Grass,False
+cacturne,332,ZU,"Sand Veil, Water Absorb","Grass, Dark",True
+swablu,333,LC,"Natural Cure, Cloud Nine","Normal, Flying",False
+altaria,334,NU,"Natural Cure, Cloud Nine","Dragon, Flying",True
+zangoose,335,ZU,"Immunity, Toxic Boost",Normal,True
+seviper,336,ZU,"Shed Skin, Infiltrator",Poison,True
+barboach,339,LC,"Oblivious, Anticipation, Hydration","Water, Ground",False
+whiscash,340,ZU,"Oblivious, Anticipation, Hydration","Water, Ground",True
+corphish,341,LC,"Hyper Cutter, Shell Armor, Adaptability",Water,False
+crawdaunt,342,RU,"Hyper Cutter, Shell Armor, Adaptability","Water, Dark",True
+feebas,349,LC,"Swift Swim, Oblivious, Adaptability",Water,False
+clefairy,35,NFE,"Cute Charm, Magic Guard, Friend Guard",Fairy,False
+milotic,350,PU,"Marvel Scale, Competitive, Cute Charm",Water,True
+shuppet,353,LC,"Insomnia, Frisk, Cursed Body",Ghost,False
+banette,354,ZU,"Insomnia, Frisk, Cursed Body",Ghost,True
+duskull,355,LC,"Levitate, Frisk",Ghost,False
+dusclops,356,NFE,"Pressure, Frisk",Ghost,False
+tropius,357,ZU,"Chlorophyll, Solar Power, Harvest","Grass, Flying",True
+chimecho,358,ZU,Levitate,Psychic,True
+clefable,36,OU,"Cute Charm, Magic Guard, Unaware",Fairy,True
+snorunt,361,LC,"Inner Focus, Ice Body, Moody",Ice,False
+glalie,362,ZU,"Inner Focus, Ice Body, Moody",Ice,True
+vulpix,37,NFE,"Flash Fire, Drought",Fire,False
+vulpix-alola,37,NFE,"Snow Cloak, Snow Warning",Ice,False
+luvdisc,370,ZU,"Swift Swim, Hydration",Water,True
+bagon,371,LC,"Rock Head, Sheer Force",Dragon,False
+shelgon,372,NFE,"Rock Head, Overcoat",Dragon,False
+salamence,373,RUBL,"Intimidate, Moxie","Dragon, Flying",True
+beldum,374,LC,"Clear Body, Light Metal","Steel, Psychic",False
+metang,375,NFE,"Clear Body, Light Metal","Steel, Psychic",False
+metagross,376,UU,"Clear Body, Light Metal","Steel, Psychic",True
+regirock,377,ZU,"Clear Body, Sturdy",Rock,True
+regice,378,ZU,"Clear Body, Ice Body",Ice,True
+registeel,379,RU,"Clear Body, Light Metal",Steel,True
+ninetales,38,ZU,"Flash Fire, Drought",Fire,True
+ninetales-alola,38,PU,"Snow Cloak, Snow Warning","Ice, Fairy",True
+latias,380,UUBL,Levitate,"Dragon, Psychic",True
+latios,381,UU,Levitate,"Dragon, Psychic",True
+kyogre,382,Uber,Drizzle,Water,True
+groudon,383,Uber,Drought,Ground,True
+rayquaza,384,Uber,Air Lock,"Dragon, Flying",True
+jirachi,385,RU,Serene Grace,"Steel, Psychic",True
+deoxys-normal,386,Uber,Pressure,Psychic,True
+deoxys-attack,386,Uber,Pressure,Psychic,True
+deoxys-defense,386,NUBL,Pressure,Psychic,True
+deoxys-speed,386,OU,Pressure,Psychic,True
+turtwig,387,LC,"Overgrow, Shell Armor",Grass,False
+grotle,388,NFE,"Overgrow, Shell Armor",Grass,False
+torterra,389,RU,"Overgrow, Shell Armor","Grass, Ground",True
+jigglypuff,39,NFE,"Cute Charm, Competitive, Friend Guard","Normal, Fairy",False
+chimchar,390,LC,"Blaze, Iron Fist",Fire,False
+monferno,391,NFE,"Blaze, Iron Fist","Fire, Fighting",False
+infernape,392,NU,"Blaze, Iron Fist","Fire, Fighting",True
+piplup,393,LC,"Torrent, Competitive",Water,False
+prinplup,394,NFE,"Torrent, Competitive",Water,False
+empoleon,395,RU,"Torrent, Competitive","Water, Steel",True
+starly,396,LC,"Keen Eye, Reckless","Normal, Flying",False
+staravia,397,NFE,"Intimidate, Reckless","Normal, Flying",False
+staraptor,398,NU,"Intimidate, Reckless","Normal, Flying",True
+charmander,4,LC,"Blaze, Solar Power",Fire,False
+wigglytuff,40,ZU,"Cute Charm, Competitive, Frisk","Normal, Fairy",True
+kricketot,401,LC,"Shed Skin, Run Away",Bug,False
+kricketune,402,ZU,"Swarm, Technician",Bug,True
+shinx,403,LC,"Rivalry, Intimidate, Guts",Electric,False
+luxio,404,NFE,"Rivalry, Intimidate, Guts",Electric,False
+luxray,405,ZU,"Rivalry, Intimidate, Guts",Electric,True
+cranidos,408,LC,"Mold Breaker, Sheer Force",Rock,False
+rampardos,409,ZU,"Mold Breaker, Sheer Force",Rock,True
+shieldon,410,LC,"Sturdy, Soundproof","Rock, Steel",False
+bastiodon,411,ZU,"Sturdy, Soundproof","Rock, Steel",True
+combee,415,LC,"Honey Gather, Hustle","Bug, Flying",False
+vespiquen,416,ZU,"Pressure, Unnerve","Bug, Flying",True
+pachirisu,417,ZU,"Run Away, Pickup, Volt Absorb",Electric,True
+buizel,418,LC,"Swift Swim, Water Veil",Water,False
+floatzel,419,PU,"Swift Swim, Water Veil",Water,True
+shellos,422,LC,"Sticky Hold, Storm Drain, Sand Force",Water,False
+gastrodon,423,RU,"Sticky Hold, Storm Drain, Sand Force","Water, Ground",True
+ambipom,424,PU,"Technician, Pickup, Skill Link",Normal,True
+drifloon,425,LC,"Aftermath, Unburden, Flare Boost","Ghost, Flying",False
+drifblim,426,ZU,"Aftermath, Unburden, Flare Boost","Ghost, Flying",True
+mismagius,429,PU,Levitate,Ghost,True
+oddish,43,LC,"Chlorophyll, Run Away","Grass, Poison",False
+honchkrow,430,ZU,"Insomnia, Super Luck, Moxie","Dark, Flying",True
+chingling,433,LC,Levitate,Psychic,False
+stunky,434,LC,"Stench, Aftermath, Keen Eye","Poison, Dark",False
+skuntank,435,ZU,"Stench, Aftermath, Keen Eye","Poison, Dark",True
+bronzor,436,LC,"Levitate, Heatproof, Heavy Metal","Steel, Psychic",False
+bronzong,437,NU,"Levitate, Heatproof, Heavy Metal","Steel, Psychic",True
+bonsly,438,LC,"Sturdy, Rock Head, Rattled",Rock,False
+gloom,44,NFE,"Chlorophyll, Stench","Grass, Poison",False
+happiny,440,LC,"Natural Cure, Serene Grace, Friend Guard",Normal,False
+spiritomb,442,ZU,"Pressure, Infiltrator","Ghost, Dark",True
+gible,443,LC,"Sand Veil, Rough Skin","Dragon, Ground",False
+gabite,444,NFE,"Sand Veil, Rough Skin","Dragon, Ground",False
+garchomp,445,UUBL,"Sand Veil, Rough Skin","Dragon, Ground",True
+munchlax,446,LC,"Pickup, Thick Fat, Gluttony",Normal,False
+riolu,447,LC,"Steadfast, Inner Focus, Prankster",Fighting,False
+lucario,448,NUBL,"Steadfast, Inner Focus, Justified","Fighting, Steel",True
+hippopotas,449,LC,"Sand Stream, Sand Force",Ground,False
+vileplume,45,PU,"Chlorophyll, Effect Spore","Grass, Poison",True
+hippowdon,450,UU,"Sand Stream, Sand Force",Ground,True
+croagunk,453,LC,"Anticipation, Dry Skin, Poison Touch","Poison, Fighting",False
+toxicroak,454,ZU,"Anticipation, Dry Skin, Poison Touch","Poison, Fighting",True
+finneon,456,LC,"Swift Swim, Storm Drain, Water Veil",Water,False
+lumineon,457,ZU,"Swift Swim, Storm Drain, Water Veil",Water,True
+snover,459,LC,"Snow Warning, Soundproof","Grass, Ice",False
+abomasnow,460,ZU,"Snow Warning, Soundproof","Grass, Ice",True
+weavile,461,UU,"Pressure, Pickpocket","Dark, Ice",True
+magnezone,462,RU,"Magnet Pull, Sturdy, Analytic","Electric, Steel",True
+rhyperior,464,NU,"Lightning Rod, Solid Rock, Reckless","Ground, Rock",True
+electivire,466,ZU,"Motor Drive, Vital Spirit",Electric,True
+magmortar,467,ZU,"Flame Body, Vital Spirit",Fire,True
+yanmega,469,RUBL,"Speed Boost, Tinted Lens, Frisk","Bug, Flying",True
+leafeon,470,ZU,"Leaf Guard, Chlorophyll",Grass,True
+glaceon,471,ZU,"Snow Cloak, Ice Body",Ice,True
+gliscor,472,OU,"Hyper Cutter, Sand Veil, Poison Heal","Ground, Flying",True
+mamoswine,473,UU,"Oblivious, Snow Cloak, Thick Fat","Ice, Ground",True
+porygon-z,474,RU,"Adaptability, Download, Analytic",Normal,True
+gallade,475,RU,"Steadfast, Sharpness, Justified","Psychic, Fighting",True
+probopass,476,ZU,"Sturdy, Magnet Pull, Sand Force","Rock, Steel",True
+dusknoir,477,ZU,"Pressure, Frisk",Ghost,True
+froslass,478,ZU,"Snow Cloak, Cursed Body","Ice, Ghost",True
+rotom,479,ZU,Levitate,"Electric, Ghost",True
+rotom-fan,479,ZU,Levitate,"Electric, Flying",True
+rotom-frost,479,ZU,Levitate,"Electric, Ice",True
+rotom-heat,479,PU,Levitate,"Electric, Fire",True
+rotom-mow,479,PU,Levitate,"Electric, Grass",True
+rotom-wash,479,UU,Levitate,"Electric, Water",True
+venonat,48,LC,"Compound Eyes, Tinted Lens, Run Away","Bug, Poison",False
+uxie,480,NU,Levitate,Psychic,True
+mesprit,481,ZU,Levitate,Psychic,True
+azelf,482,NUBL,Levitate,Psychic,True
+dialga,483,Uber,"Pressure, Telepathy","Steel, Dragon",True
+dialga-origin,483,Uber,"Pressure, Telepathy","Steel, Dragon",True
+palkia,484,Uber,"Pressure, Telepathy","Water, Dragon",True
+palkia-origin,484,Uber,"Pressure, Telepathy","Water, Dragon",True
+heatran,485,OU,"Flash Fire, Flame Body","Fire, Steel",True
+regigigas,486,ZU,Slow Start,Normal,True
+giratina-altered,487,Uber,"Pressure, Telepathy","Ghost, Dragon",True
+giratina-origin,487,Uber,Levitate,"Ghost, Dragon",True
+cresselia,488,NUBL,Levitate,Psychic,True
+phione,489,ZU,Hydration,Water,True
+venomoth,49,ZUBL,"Shield Dust, Tinted Lens, Wonder Skin","Bug, Poison",True
+manaphy,490,UU,Hydration,Water,True
+darkrai,491,OU,Bad Dreams,Dark,True
+shaymin-land,492,PU,Natural Cure,Grass,True
+shaymin-sky,492,Uber,Serene Grace,"Grass, Flying",True
+arceus,493,Uber,Multitype,Normal,True
+arceus-bug,493,Uber,Multitype,Bug,True
+arceus-dark,493,Uber,Multitype,Dark,True
+arceus-dragon,493,Uber,Multitype,Dragon,True
+arceus-electric,493,Uber,Multitype,Electric,True
+arceus-fighting,493,Uber,Multitype,Fighting,True
+arceus-fire,493,Uber,Multitype,Fire,True
+arceus-flying,493,Uber,Multitype,Flying,True
+arceus-ghost,493,Uber,Multitype,Ghost,True
+arceus-grass,493,Uber,Multitype,Grass,True
+arceus-ground,493,Uber,Multitype,Ground,True
+arceus-ice,493,Uber,Multitype,Ice,True
+arceus-poison,493,Uber,Multitype,Poison,True
+arceus-psychic,493,Uber,Multitype,Psychic,True
+arceus-rock,493,Uber,Multitype,Rock,True
+arceus-steel,493,Uber,Multitype,Steel,True
+arceus-water,493,Uber,Multitype,Water,True
+arceus-fairy,493,Uber,Multitype,Fairy,True
+snivy,495,NFE,"Overgrow, Contrary",Grass,False
+servine,496,NFE,"Overgrow, Contrary",Grass,False
+serperior,497,RUBL,"Overgrow, Contrary",Grass,True
+tepig,498,LC,"Blaze, Thick Fat",Fire,False
+pignite,499,NFE,"Blaze, Thick Fat","Fire, Fighting",False
+charmeleon,5,NFE,"Blaze, Solar Power",Fire,False
+diglett,50,NFE,"Sand Veil, Arena Trap, Sand Force",Ground,False
+diglett-alola,50,LC,"Sand Veil, Tangling Hair, Sand Force","Ground, Steel",False
+emboar,500,ZUBL,"Blaze, Reckless","Fire, Fighting",True
+oshawott,501,LC,"Torrent, Shell Armor",Water,False
+dewott,502,NFE,"Torrent, Shell Armor",Water,False
+samurott,503,ZU,"Torrent, Shell Armor",Water,True
+samurott-hisui,503,OU,"Torrent, Sharpness","Water, Dark",True
+dugtrio,51,ZU,"Sand Veil, Arena Trap, Sand Force",Ground,True
+dugtrio-alola,51,ZU,"Sand Veil, Tangling Hair, Sand Force","Ground, Steel",True
+meowth,52,LC,"Pickup, Technician, Unnerve",Normal,False
+meowth-alola,52,LC,"Pickup, Technician, Rattled",Dark,False
+meowth-galar,52,LC,"Pickup, Tough Claws, Unnerve",Steel,False
+blitzle,522,LC,"Lightning Rod, Motor Drive, Sap Sipper",Electric,False
+zebstrika,523,ZU,"Lightning Rod, Motor Drive, Sap Sipper",Electric,True
+drilbur,529,LC,"Sand Rush, Sand Force, Mold Breaker",Ground,False
+persian,53,ZU,"Limber, Technician, Unnerve",Normal,True
+persian-alola,53,ZU,"Fur Coat, Technician, Rattled",Dark,True
+excadrill,530,UU,"Sand Rush, Sand Force, Mold Breaker","Ground, Steel",True
+timburr,532,LC,"Guts, Sheer Force, Iron Fist",Fighting,False
+gurdurr,533,NFE,"Guts, Sheer Force, Iron Fist",Fighting,False
+conkeldurr,534,UU,"Guts, Sheer Force, Iron Fist",Fighting,True
+psyduck,54,LC,"Damp, Cloud Nine, Swift Swim",Water,False
+sewaddle,540,LC,"Swarm, Chlorophyll, Overcoat","Bug, Grass",False
+swadloon,541,NFE,"Leaf Guard, Chlorophyll, Overcoat","Bug, Grass",False
+leavanny,542,ZU,"Swarm, Chlorophyll, Overcoat","Bug, Grass",True
+cottonee,546,LC,"Prankster, Infiltrator, Chlorophyll","Grass, Fairy",False
+whimsicott,547,ZU,"Prankster, Infiltrator, Chlorophyll","Grass, Fairy",True
+petilil,548,LC,"Chlorophyll, Own Tempo, Leaf Guard",Grass,False
+lilligant,549,ZU,"Chlorophyll, Own Tempo, Leaf Guard",Grass,True
+lilligant-hisui,549,RUBL,"Chlorophyll, Hustle, Leaf Guard","Grass, Fighting",True
+golduck,55,ZU,"Damp, Cloud Nine, Swift Swim",Water,True
+basculin-red-striped,550,ZU,"Reckless, Adaptability, Mold Breaker",Water,True
+basculin-blue-striped,550,ZU,"Rock Head, Adaptability, Mold Breaker",Water,True
+basculin-white-striped,550,ZU,"Rattled, Adaptability, Mold Breaker",Water,False
+sandile,551,LC,"Intimidate, Moxie, Anger Point","Ground, Dark",False
+krokorok,552,NFE,"Intimidate, Moxie, Anger Point","Ground, Dark",False
+krookodile,553,RU,"Intimidate, Moxie, Anger Point","Ground, Dark",True
+scraggy,559,NFE,"Shed Skin, Moxie, Intimidate","Dark, Fighting",False
+mankey,56,LC,"Vital Spirit, Anger Point, Defiant",Fighting,False
+scrafty,560,PU,"Shed Skin, Moxie, Intimidate","Dark, Fighting",True
+primeape,57,ZU,"Vital Spirit, Anger Point, Defiant",Fighting,False
+zorua,570,LC,Illusion,Dark,False
+zorua-hisui,570,LC,Illusion,"Normal, Ghost",False
+zoroark,571,PU,Illusion,Dark,True
+zoroark-hisui,571,RUBL,Illusion,"Normal, Ghost",True
+minccino,572,LC,"Cute Charm, Technician, Skill Link",Normal,False
+cinccino,573,NU,"Cute Charm, Technician, Skill Link",Normal,True
+gothita,574,LC,"Frisk, Competitive, Shadow Tag",Psychic,False
+gothorita,575,NFE,"Frisk, Competitive, Shadow Tag",Psychic,False
+gothitelle,576,ZU,"Frisk, Competitive, Shadow Tag",Psychic,True
+solosis,577,LC,"Overcoat, Magic Guard, Regenerator",Psychic,False
+duosion,578,NFE,"Overcoat, Magic Guard, Regenerator",Psychic,False
+reuniclus,579,NU,"Overcoat, Magic Guard, Regenerator",Psychic,True
+growlithe,58,LC,"Intimidate, Flash Fire, Justified",Fire,False
+growlithe-hisui,58,LC,"Intimidate, Flash Fire, Rock Head","Fire, Rock",False
+ducklett,580,LC,"Keen Eye, Big Pecks, Hydration","Water, Flying",False
+swanna,581,ZU,"Keen Eye, Big Pecks, Hydration","Water, Flying",True
+deerling,585,LC,"Chlorophyll, Sap Sipper, Serene Grace","Normal, Grass",False
+sawsbuck,586,ZU,"Chlorophyll, Sap Sipper, Serene Grace","Normal, Grass",True
+arcanine,59,NU,"Intimidate, Flash Fire, Justified",Fire,True
+arcanine-hisui,59,UU,"Intimidate, Flash Fire, Rock Head","Fire, Rock",True
+foongus,590,LC,"Effect Spore, Regenerator","Grass, Poison",False
+amoonguss,591,PU,"Effect Spore, Regenerator","Grass, Poison",True
+alomomola,594,OU,"Healer, Hydration, Regenerator",Water,True
+joltik,595,LC,"Compound Eyes, Unnerve, Swarm","Bug, Electric",False
+galvantula,596,PU,"Compound Eyes, Unnerve, Swarm","Bug, Electric",True
+charizard,6,ZU,"Blaze, Solar Power","Fire, Flying",True
+poliwag,60,LC,"Water Absorb, Damp, Swift Swim",Water,False
+tynamo,602,LC,Levitate,Electric,False
+eelektrik,603,NFE,Levitate,Electric,False
+eelektross,604,ZU,Levitate,Electric,True
+litwick,607,LC,"Flash Fire, Flame Body, Infiltrator","Ghost, Fire",False
+lampent,608,NFE,"Flash Fire, Flame Body, Infiltrator","Ghost, Fire",False
+chandelure,609,NU,"Flash Fire, Flame Body, Infiltrator","Ghost, Fire",True
+poliwhirl,61,NFE,"Water Absorb, Damp, Swift Swim",Water,False
+axew,610,LC,"Rivalry, Mold Breaker, Unnerve",Dragon,False
+fraxure,611,NFE,"Rivalry, Mold Breaker, Unnerve",Dragon,False
+haxorus,612,RUBL,"Rivalry, Mold Breaker, Unnerve",Dragon,True
+cubchoo,613,LC,"Snow Cloak, Slush Rush, Rattled",Ice,False
+beartic,614,ZU,"Snow Cloak, Slush Rush, Swift Swim",Ice,True
+cryogonal,615,ZU,Levitate,Ice,True
+mienfoo,619,LC,"Inner Focus, Regenerator, Reckless",Fighting,False
+poliwrath,62,ZU,"Water Absorb, Damp, Swift Swim","Water, Fighting",True
+mienshao,620,RU,"Inner Focus, Regenerator, Reckless",Fighting,True
+golett,622,LC,"Iron Fist, Klutz, No Guard","Ground, Ghost",False
+golurk,623,PU,"Iron Fist, Klutz, No Guard","Ground, Ghost",True
+pawniard,624,LC,"Defiant, Inner Focus, Pressure","Dark, Steel",False
+bisharp,625,RU,"Defiant, Inner Focus, Pressure","Dark, Steel",False
+rufflet,627,NFE,"Keen Eye, Sheer Force, Hustle","Normal, Flying",False
+braviary,628,NU,"Keen Eye, Sheer Force, Defiant","Normal, Flying",True
+braviary-hisui,628,PU,"Keen Eye, Sheer Force, Tinted Lens","Psychic, Flying",True
+vullaby,629,LC,"Big Pecks, Overcoat, Weak Armor","Dark, Flying",False
+mandibuzz,630,UU,"Big Pecks, Overcoat, Weak Armor","Dark, Flying",True
+deino,633,LC,Hustle,"Dark, Dragon",False
+zweilous,634,NFE,Hustle,"Dark, Dragon",False
+hydreigon,635,UU,Levitate,"Dark, Dragon",True
+larvesta,636,LC,"Flame Body, Swarm","Bug, Fire",False
+volcarona,637,Uber,"Flame Body, Swarm","Bug, Fire",True
+cobalion,638,UU,Justified,"Steel, Fighting",True
+terrakion,639,RU,Justified,"Rock, Fighting",True
+virizion,640,ZU,Justified,"Grass, Fighting",True
+tornadus-incarnate,641,NU,"Prankster, Defiant",Flying,True
+tornadus-therian,641,OU,Regenerator,Flying,True
+thundurus-incarnate,642,RUBL,"Prankster, Defiant","Electric, Flying",True
+thundurus-therian,642,UU,Volt Absorb,"Electric, Flying",True
+reshiram,643,Uber,Turboblaze,"Dragon, Fire",True
+zekrom,644,Uber,Teravolt,"Dragon, Electric",True
+landorus-incarnate,645,Uber,"Sand Force, Sheer Force","Ground, Flying",True
+landorus-therian,645,OU,Intimidate,"Ground, Flying",True
+kyurem,646,OU,Pressure,"Dragon, Ice",True
+kyurem-black,646,Uber,Teravolt,"Dragon, Ice",True
+kyurem-white,646,Uber,Turboblaze,"Dragon, Ice",True
+keldeo-ordinary,647,UU,Justified,"Water, Fighting",True
+keldeo-resolute,647,UU,Justified,"Water, Fighting",True
+meloetta-aria,648,NU,Serene Grace,"Normal, Psychic",True
+chespin,650,LC,"Overgrow, Bulletproof",Grass,False
+quilladin,651,NFE,"Overgrow, Bulletproof",Grass,False
+chesnaught,652,RU,"Overgrow, Bulletproof","Grass, Fighting",True
+fennekin,653,LC,"Blaze, Magician",Fire,False
+braixen,654,NFE,"Blaze, Magician",Fire,False
+delphox,655,PU,"Blaze, Magician","Fire, Psychic",True
+froakie,656,LC,"Torrent, Protean",Water,False
+frogadier,657,NFE,"Torrent, Protean",Water,False
+greninja,658,UU,"Torrent, Protean, Battle Bond","Water, Dark",True
+greninja-battle-bond,658,UU,Battle Bond,"Water, Dark",True
+fletchling,661,LC,"Big Pecks, Gale Wings","Normal, Flying",False
+fletchinder,662,NFE,"Flame Body, Gale Wings","Fire, Flying",False
+talonflame,663,UU,"Flame Body, Gale Wings","Fire, Flying",True
+scatterbug,664,LC,"Shield Dust, Compound Eyes, Friend Guard",Bug,False
+spewpa,665,NFE,"Shed Skin, Friend Guard",Bug,False
+vivillon,666,ZU,"Shield Dust, Compound Eyes, Friend Guard","Bug, Flying",True
+vivillon-fancy,666,ZU,"Shield Dust, Compound Eyes, Friend Guard","Bug, Flying",True
+vivillon-pokeball,666,ZU,"Shield Dust, Compound Eyes, Friend Guard","Bug, Flying",True
+litleo,667,LC,"Rivalry, Unnerve, Moxie","Fire, Normal",False
+pyroar-male,668,ZU,"Rivalry, Unnerve, Moxie","Fire, Normal",True
+flabebe,669,LC,"Flower Veil, Symbiosis",Fairy,False
+floette,670,NFE,"Flower Veil, Symbiosis",Fairy,False
+florges,671,PU,"Flower Veil, Symbiosis",Fairy,True
+skiddo,672,LC,"Sap Sipper, Grass Pelt",Grass,False
+gogoat,673,ZU,"Sap Sipper, Grass Pelt",Grass,True
+espurr,677,LC,"Keen Eye, Infiltrator, Own Tempo",Psychic,False
+meowstic-female,678,ZU,"Keen Eye, Infiltrator, Competitive",Psychic,True
+meowstic-male,678,ZU,"Keen Eye, Infiltrator, Prankster",Psychic,True
+inkay,686,LC,"Contrary, Suction Cups, Infiltrator","Dark, Psychic",False
+malamar,687,ZU,"Contrary, Suction Cups, Infiltrator","Dark, Psychic",True
+bellsprout,69,LC,"Chlorophyll, Gluttony","Grass, Poison",False
+skrelp,690,LC,"Poison Point, Poison Touch, Adaptability","Poison, Water",False
+dragalge,691,PUBL,"Poison Point, Poison Touch, Adaptability","Poison, Dragon",True
+clauncher,692,LC,Mega Launcher,Water,False
+clawitzer,693,ZU,Mega Launcher,Water,True
+squirtle,7,LC,"Torrent, Rain Dish",Water,False
+weepinbell,70,NFE,"Chlorophyll, Gluttony","Grass, Poison",False
+sylveon,700,NU,"Cute Charm, Pixilate",Fairy,True
+hawlucha,701,RUBL,"Limber, Unburden, Mold Breaker","Fighting, Flying",True
+dedenne,702,ZU,"Cheek Pouch, Pickup, Plus","Electric, Fairy",True
+carbink,703,ZU,"Clear Body, Sturdy","Rock, Fairy",True
+goomy,704,LC,"Sap Sipper, Hydration, Gooey",Dragon,False
+sliggoo,705,NFE,"Sap Sipper, Hydration, Gooey",Dragon,False
+sliggoo-hisui,705,NFE,"Sap Sipper, Shell Armor, Gooey","Steel, Dragon",False
+goodra,706,NU,"Sap Sipper, Hydration, Gooey",Dragon,True
+goodra-hisui,706,RU,"Sap Sipper, Shell Armor, Gooey","Steel, Dragon",True
+klefki,707,NU,"Prankster, Magician","Steel, Fairy",True
+phantump,708,LC,"Natural Cure, Frisk, Harvest","Ghost, Grass",False
+trevenant,709,ZU,"Natural Cure, Frisk, Harvest","Ghost, Grass",True
+victreebel,71,ZU,"Chlorophyll, Gluttony","Grass, Poison",True
+bergmite,712,LC,"Own Tempo, Ice Body, Sturdy",Ice,False
+avalugg,713,NU,"Own Tempo, Ice Body, Sturdy",Ice,True
+avalugg-hisui,713,PU,"Strong Jaw, Ice Body, Sturdy","Ice, Rock",True
+noibat,714,LC,"Frisk, Infiltrator, Telepathy","Flying, Dragon",False
+noivern,715,RU,"Frisk, Infiltrator, Telepathy","Flying, Dragon",True
+diancie,719,RU,Clear Body,"Rock, Fairy",True
+tentacool,72,LC,"Clear Body, Liquid Ooze, Rain Dish","Water, Poison",False
+hoopa,720,PU,Magician,"Psychic, Ghost",True
+hoopa-unbound,720,UUBL,Magician,"Psychic, Dark",True
+volcanion,721,RUBL,Water Absorb,"Fire, Water",True
+rowlet,722,LC,"Overgrow, Long Reach","Grass, Flying",False
+dartrix,723,NFE,"Overgrow, Long Reach","Grass, Flying",False
+decidueye,724,NU,"Overgrow, Long Reach","Grass, Ghost",True
+decidueye-hisui,724,PU,"Overgrow, Scrappy","Grass, Fighting",True
+litten,725,LC,"Blaze, Intimidate",Fire,False
+torracat,726,NFE,"Blaze, Intimidate",Fire,False
+incineroar,727,NU,"Blaze, Intimidate","Fire, Dark",True
+popplio,728,LC,"Torrent, Liquid Voice",Water,False
+brionne,729,NFE,"Torrent, Liquid Voice",Water,False
+tentacruel,73,NU,"Clear Body, Liquid Ooze, Rain Dish","Water, Poison",True
+primarina,730,OU,"Torrent, Liquid Voice","Water, Fairy",True
+pikipek,731,LC,"Keen Eye, Skill Link, Pickup","Normal, Flying",False
+trumbeak,732,NFE,"Keen Eye, Skill Link, Pickup","Normal, Flying",False
+toucannon,733,ZU,"Keen Eye, Skill Link, Sheer Force","Normal, Flying",True
+yungoos,734,LC,"Stakeout, Strong Jaw, Adaptability",Normal,False
+gumshoos,735,ZU,"Stakeout, Strong Jaw, Adaptability",Normal,True
+grubbin,736,LC,Swarm,Bug,False
+charjabug,737,NFE,Battery,"Bug, Electric",False
+vikavolt,738,ZU,Levitate,"Bug, Electric",True
+crabrawler,739,LC,"Hyper Cutter, Iron Fist, Anger Point",Fighting,False
+geodude,74,LC,"Rock Head, Sturdy, Sand Veil","Rock, Ground",False
+geodude-alola,74,LC,"Magnet Pull, Sturdy, Galvanize","Rock, Electric",False
+crabominable,740,ZU,"Hyper Cutter, Iron Fist, Anger Point","Fighting, Ice",True
+oricorio-baile,741,ZU,Dancer,"Fire, Flying",True
+oricorio-pau,741,ZU,Dancer,"Psychic, Flying",True
+oricorio-pom-pom,741,RUBL,Dancer,"Electric, Flying",True
+oricorio-sensu,741,NUBL,Dancer,"Ghost, Flying",True
+cutiefly,742,NFE,"Honey Gather, Shield Dust, Sweet Veil","Bug, Fairy",False
+ribombee,743,RU,"Honey Gather, Shield Dust, Sweet Veil","Bug, Fairy",True
+rockruff,744,LC,"Keen Eye, Vital Spirit, Steadfast, Own Tempo",Rock,False
+rockruff-own-tempo,744,LC,Own Tempo,Rock,False
+lycanroc-midday,745,ZU,"Keen Eye, Sand Rush, Steadfast",Rock,True
+lycanroc-dusk,745,NUBL,Tough Claws,Rock,True
+lycanroc-midnight,745,ZU,"Keen Eye, Vital Spirit, No Guard",Rock,True
+mareanie,747,LC,"Merciless, Limber, Regenerator","Poison, Water",False
+toxapex,748,UU,"Merciless, Limber, Regenerator","Poison, Water",True
+mudbray,749,LC,"Own Tempo, Stamina, Inner Focus",Ground,False
+graveler,75,NFE,"Rock Head, Sturdy, Sand Veil","Rock, Ground",False
+graveler-alola,75,NFE,"Magnet Pull, Sturdy, Galvanize","Rock, Electric",False
+mudsdale,750,PU,"Own Tempo, Stamina, Inner Focus",Ground,True
+dewpider,751,LC,"Water Bubble, Water Absorb","Water, Bug",False
+araquanid,752,NU,"Water Bubble, Water Absorb","Water, Bug",True
+fomantis,753,LC,"Leaf Guard, Contrary",Grass,False
+lurantis,754,ZU,"Leaf Guard, Contrary",Grass,True
+salandit,757,LC,"Corrosion, Oblivious","Poison, Fire",False
+salazzle,758,PU,"Corrosion, Oblivious","Poison, Fire",True
+golem,76,ZU,"Rock Head, Sturdy, Sand Veil","Rock, Ground",True
+golem-alola,76,ZU,"Magnet Pull, Sturdy, Galvanize","Rock, Electric",True
+bounsweet,761,LC,"Leaf Guard, Oblivious, Sweet Veil",Grass,False
+steenee,762,NFE,"Leaf Guard, Oblivious, Sweet Veil",Grass,False
+tsareena,763,NU,"Leaf Guard, Queenly Majesty, Sweet Veil",Grass,True
+comfey,764,RUBL,"Flower Veil, Triage, Natural Cure",Fairy,True
+oranguru,765,ZU,"Inner Focus, Telepathy, Symbiosis","Normal, Psychic",True
+passimian,766,PU,"Receiver, Defiant",Fighting,True
+sandygast,769,LC,"Water Compaction, Sand Veil","Ghost, Ground",False
+palossand,770,PU,"Water Compaction, Sand Veil","Ghost, Ground",True
+minior-red-meteor,774,ZU,Shields Down,"Rock, Flying",True
+komala,775,ZU,Comatose,Normal,True
+mimikyu-disguised,778,RU,Disguise,"Ghost, Fairy",True
+bruxish,779,PU,"Dazzling, Strong Jaw, Wonder Skin","Water, Psychic",True
+jangmo-o,782,LC,"Bulletproof, Soundproof, Overcoat",Dragon,False
+hakamo-o,783,NFE,"Bulletproof, Soundproof, Overcoat","Dragon, Fighting",False
+kommo-o,784,UUBL,"Bulletproof, Soundproof, Overcoat","Dragon, Fighting",True
+cosmog,789,LC,Unaware,Psychic,False
+slowpoke,79,LC,"Oblivious, Own Tempo, Regenerator","Water, Psychic",False
+slowpoke-galar,79,LC,"Gluttony, Own Tempo, Regenerator",Psychic,False
+cosmoem,790,NFE,Sturdy,Psychic,False
+solgaleo,791,Uber,Full Metal Body,"Psychic, Steel",True
+lunala,792,Uber,Shadow Shield,"Psychic, Ghost",True
+wartortle,8,NFE,"Torrent, Rain Dish",Water,False
+slowbro,80,RU,"Oblivious, Own Tempo, Regenerator","Water, Psychic",True
+slowbro-galar,80,PU,"Quick Draw, Own Tempo, Regenerator","Poison, Psychic",True
+necrozma,800,RU,Prism Armor,Psychic,True
+necrozma-dawn,800,Uber,Prism Armor,"Psychic, Ghost",True
+necrozma-dusk,800,Uber,Prism Armor,"Psychic, Steel",True
+magearna,801,Uber,Soul-Heart,"Steel, Fairy",True
+magearna-original,801,Uber,Soul-Heart,"Steel, Fairy",True
+magnemite,81,LC,"Magnet Pull, Sturdy, Analytic","Electric, Steel",False
+grookey,810,LC,"Overgrow, Grassy Surge",Grass,False
+thwackey,811,NU,"Overgrow, Grassy Surge",Grass,False
+rillaboom,812,OU,"Overgrow, Grassy Surge",Grass,True
+scorbunny,813,LC,"Blaze, Libero",Fire,False
+raboot,814,NFE,"Blaze, Libero",Fire,False
+cinderace,815,OU,"Blaze, Libero",Fire,True
+sobble,816,LC,"Torrent, Sniper",Water,False
+drizzile,817,NFE,"Torrent, Sniper",Water,False
+inteleon,818,PUBL,"Torrent, Sniper",Water,True
+skwovet,819,LC,"Cheek Pouch, Gluttony",Normal,False
+magneton,82,ZU,"Magnet Pull, Sturdy, Analytic","Electric, Steel",False
+greedent,820,ZU,"Cheek Pouch, Gluttony",Normal,True
+rookidee,821,LC,"Keen Eye, Unnerve, Big Pecks",Flying,False
+corvisquire,822,NFE,"Keen Eye, Unnerve, Big Pecks",Flying,False
+corviknight,823,OU,"Pressure, Unnerve, Mirror Armor","Flying, Steel",True
+chewtle,833,LC,"Strong Jaw, Shell Armor, Swift Swim",Water,False
+drednaw,834,PUBL,"Strong Jaw, Shell Armor, Swift Swim","Water, Rock",True
+rolycoly,837,LC,"Steam Engine, Heatproof, Flash Fire",Rock,False
+carkol,838,NFE,"Steam Engine, Flame Body, Flash Fire","Rock, Fire",False
+coalossal,839,PU,"Steam Engine, Flame Body, Flash Fire","Rock, Fire",True
+doduo,84,LC,"Run Away, Early Bird, Tangled Feet","Normal, Flying",False
+applin,840,LC,"Ripen, Gluttony, Bulletproof","Grass, Dragon",False
+flapple,841,ZU,"Ripen, Gluttony, Hustle","Grass, Dragon",True
+appletun,842,ZU,"Ripen, Gluttony, Thick Fat","Grass, Dragon",True
+silicobra,843,LC,"Sand Spit, Shed Skin, Sand Veil",Ground,False
+sandaconda,844,ZU,"Sand Spit, Shed Skin, Sand Veil",Ground,True
+cramorant,845,PU,Gulp Missile,"Flying, Water",True
+arrokuda,846,LC,"Swift Swim, Propeller Tail",Water,False
+barraskewda,847,RU,"Swift Swim, Propeller Tail",Water,True
+toxel,848,LC,"Rattled, Static, Klutz","Electric, Poison",False
+toxtricity-amped,849,RU,"Punk Rock, Plus, Technician","Electric, Poison",True
+toxtricity-low-key,849,RU,"Punk Rock, Minus, Technician","Electric, Poison",True
+dodrio,85,ZU,"Run Away, Early Bird, Tangled Feet","Normal, Flying",True
+sinistea,854,LC,"Weak Armor, Cursed Body",Ghost,False
+polteageist,855,UUBL,"Weak Armor, Cursed Body",Ghost,True
+hatenna,856,LC,"Healer, Anticipation, Magic Bounce",Psychic,False
+hattrem,857,NFE,"Healer, Anticipation, Magic Bounce",Psychic,False
+hatterene,858,OU,"Healer, Anticipation, Magic Bounce","Psychic, Fairy",True
+impidimp,859,LC,"Prankster, Frisk, Pickpocket","Dark, Fairy",False
+seel,86,LC,"Thick Fat, Hydration, Ice Body",Water,False
+morgrem,860,NFE,"Prankster, Frisk, Pickpocket","Dark, Fairy",False
+grimmsnarl,861,PU,"Prankster, Frisk, Pickpocket","Dark, Fairy",True
+perrserker,863,ZU,"Battle Armor, Tough Claws, Steely Spirit",Steel,True
+milcery,868,LC,"Sweet Veil, Aroma Veil",Fairy,False
+alcremie,869,ZUBL,"Sweet Veil, Aroma Veil",Fairy,True
+dewgong,87,ZU,"Thick Fat, Hydration, Ice Body","Water, Ice",True
+falinks,870,ZU,"Battle Armor, Defiant",Fighting,True
+pincurchin,871,ZU,"Lightning Rod, Electric Surge",Electric,True
+snom,872,LC,"Shield Dust, Ice Scales","Ice, Bug",False
+frosmoth,873,PUBL,"Shield Dust, Ice Scales","Ice, Bug",True
+stonjourner,874,ZU,Power Spot,Rock,True
+eiscue-ice,875,ZU,Ice Face,Ice,True
+indeedee-male,876,PUBL,"Inner Focus, Synchronize, Psychic Surge","Psychic, Normal",True
+indeedee-female,876,ZU,"Own Tempo, Synchronize, Psychic Surge","Psychic, Normal",True
+morpeko-full-belly,877,ZU,Hunger Switch,"Electric, Dark",True
+cufant,878,LC,"Sheer Force, Heavy Metal",Steel,False
+copperajah,879,NU,"Sheer Force, Heavy Metal",Steel,True
+grimer,88,LC,"Stench, Sticky Hold, Poison Touch",Poison,False
+grimer-alola,88,LC,"Poison Touch, Gluttony, Power of Alchemy","Poison, Dark",False
+duraludon,884,NU,"Light Metal, Heavy Metal, Stalwart","Steel, Dragon",False
+dreepy,885,LC,"Clear Body, Infiltrator, Cursed Body","Dragon, Ghost",False
+drakloak,886,NFE,"Clear Body, Infiltrator, Cursed Body","Dragon, Ghost",False
+dragapult,887,OU,"Clear Body, Infiltrator, Cursed Body","Dragon, Ghost",True
+zacian,888,Uber,Intrepid Sword,Fairy,True
+zacian-crowned,888,Uber,Intrepid Sword,"Fairy, Steel",True
+zamazenta,889,OU,Dauntless Shield,Fighting,True
+zamazenta-crowned,889,Uber,Dauntless Shield,"Fighting, Steel",True
+muk,89,ZU,"Stench, Sticky Hold, Poison Touch",Poison,True
+muk-alola,89,RU,"Poison Touch, Gluttony, Power of Alchemy","Poison, Dark",True
+eternatus,890,Uber,Pressure,"Poison, Dragon",True
+kubfu,891,NFE,Inner Focus,Fighting,False
+urshifu-single-strike,892,Uber,Unseen Fist,"Fighting, Dark",True
+urshifu-rapid-strike,892,Uber,Unseen Fist,"Fighting, Water",True
+zarude,893,UUBL,Leaf Guard,"Dark, Grass",True
+zarude-dada,893,UUBL,Leaf Guard,"Dark, Grass",True
+regieleki,894,Uber,Transistor,Electric,True
+regidrago,895,NUBL,Dragon's Maw,Dragon,True
+glastrier,896,ZU,Chilling Neigh,Ice,True
+spectrier,897,Uber,Grim Neigh,Ghost,True
+calyrex,898,ZU,Unnerve,"Psychic, Grass",True
+calyrex-ice,898,Uber,As One (Glastrier),"Psychic, Ice",True
+calyrex-shadow,898,AG,As One (Spectrier),"Psychic, Ghost",True
+wyrdeer,899,ZU,"Intimidate, Frisk, Sap Sipper","Normal, Psychic",True
+blastoise,9,RUBL,"Torrent, Rain Dish",Water,True
+shellder,90,NFE,"Shell Armor, Skill Link, Overcoat",Water,False
+kleavor,900,RU,"Swarm, Sheer Force, Sharpness","Bug, Rock",True
+ursaluna,901,UUBL,"Guts, Bulletproof, Unnerve","Ground, Normal",True
+ursaluna-bloodmoon,901,Uber,Mind's Eye,"Ground, Normal",True
+basculegion-male,902,NU,"Swift Swim, Adaptability, Mold Breaker","Water, Ghost",True
+basculegion-female,902,RU,"Swift Swim, Adaptability, Mold Breaker","Water, Ghost",True
+sneasler,903,Uber,"Pressure, Unburden, Poison Touch","Fighting, Poison",True
+overqwil,904,NU,"Poison Point, Swift Swim, Intimidate","Dark, Poison",True
+enamorus-incarnate,905,OU,"Cute Charm, Contrary","Fairy, Flying",True
+enamorus-therian,905,RUBL,Overcoat,"Fairy, Flying",True
+sprigatito,906,LC,"Overgrow, Protean",Grass,False
+floragato,907,NFE,"Overgrow, Protean",Grass,False
+meowscarada,908,UUBL,"Overgrow, Protean","Grass, Dark",True
+fuecoco,909,LC,"Blaze, Unaware",Fire,False
+cloyster,91,NUBL,"Shell Armor, Skill Link, Overcoat","Water, Ice",True
+crocalor,910,NFE,"Blaze, Unaware",Fire,False
+skeledirge,911,UU,"Blaze, Unaware","Fire, Ghost",True
+quaxly,912,LC,"Torrent, Moxie",Water,False
+quaxwell,913,NFE,"Torrent, Moxie",Water,False
+quaquaval,914,UUBL,"Torrent, Moxie","Water, Fighting",True
+lechonk,915,LC,"Aroma Veil, Gluttony, Thick Fat",Normal,False
+oinkologne-male,916,ZU,"Lingering Aroma, Gluttony, Thick Fat",Normal,True
+oinkologne-female,916,ZU,"Aroma Veil, Gluttony, Thick Fat",Normal,True
+tarountula,917,LC,"Insomnia, Stakeout",Bug,False
+spidops,918,ZU,"Insomnia, Stakeout",Bug,True
+nymble,919,LC,"Swarm, Tinted Lens",Bug,False
+gastly,92,NFE,Levitate,"Ghost, Poison",False
+lokix,920,UU,"Swarm, Tinted Lens","Bug, Dark",True
+pawmi,921,LC,"Static, Natural Cure, Iron Fist",Electric,False
+pawmo,922,NFE,"Volt Absorb, Natural Cure, Iron Fist","Electric, Fighting",False
+pawmot,923,PU,"Volt Absorb, Natural Cure, Iron Fist","Electric, Fighting",True
+tandemaus,924,LC,"Run Away, Pickup, Own Tempo",Normal,False
+maushold-family-of-four,925,RU,"Friend Guard, Cheek Pouch, Technician",Normal,True
+maushold-family-of-three,925,RU,"Friend Guard, Cheek Pouch, Technician",Normal,True
+fidough,926,LC,"Own Tempo, Klutz",Fairy,False
+dachsbun,927,ZU,"Well-Baked Body, Aroma Veil",Fairy,True
+smoliv,928,LC,"Early Bird, Harvest","Grass, Normal",False
+dolliv,929,NFE,"Early Bird, Harvest","Grass, Normal",False
+haunter,93,NFE,Levitate,"Ghost, Poison",False
+arboliva,930,ZU,"Seed Sower, Harvest","Grass, Normal",True
+squawkabilly-green-plumage,931,ZU,"Intimidate, Hustle, Guts","Normal, Flying",True
+squawkabilly-blue-plumage,931,ZU,"Intimidate, Hustle, Guts","Normal, Flying",True
+squawkabilly-white-plumage,931,ZU,"Intimidate, Hustle, Sheer Force","Normal, Flying",True
+squawkabilly-yellow-plumage,931,ZU,"Intimidate, Hustle, Sheer Force","Normal, Flying",True
+nacli,932,LC,"Purifying Salt, Sturdy, Clear Body",Rock,False
+naclstack,933,NFE,"Purifying Salt, Sturdy, Clear Body",Rock,False
+garganacl,934,OU,"Purifying Salt, Sturdy, Clear Body",Rock,True
+charcadet,935,LC,"Flash Fire, Flame Body",Fire,False
+armarouge,936,RU,"Flash Fire, Weak Armor","Fire, Psychic",True
+ceruledge,937,OU,"Flash Fire, Weak Armor","Fire, Ghost",True
+tadbulb,938,LC,"Own Tempo, Static, Damp",Electric,False
+bellibolt,939,NU,"Electromorphosis, Static, Damp",Electric,True
+gengar,94,RU,Cursed Body,"Ghost, Poison",True
+wattrel,940,LC,"Wind Power, Volt Absorb, Competitive","Electric, Flying",False
+kilowattrel,941,NU,"Wind Power, Volt Absorb, Competitive","Electric, Flying",True
+maschiff,942,LC,"Intimidate, Run Away, Stakeout",Dark,False
+mabosstiff,943,ZU,"Intimidate, Guard Dog, Stakeout",Dark,True
+shroodle,944,LC,"Unburden, Pickpocket, Prankster","Poison, Normal",False
+grafaiai,945,NU,"Unburden, Poison Touch, Prankster","Poison, Normal",True
+bramblin,946,LC,"Wind Rider, Infiltrator","Grass, Ghost",False
+brambleghast,947,NU,"Wind Rider, Infiltrator","Grass, Ghost",True
+toedscool,948,LC,Mycelium Might,"Ground, Grass",False
+toedscruel,949,ZU,Mycelium Might,"Ground, Grass",True
+klawf,950,ZU,"Anger Shell, Shell Armor, Regenerator",Rock,True
+capsakid,951,LC,"Chlorophyll, Insomnia, Klutz",Grass,False
+scovillain,952,ZU,"Chlorophyll, Insomnia, Moody","Grass, Fire",True
+rellor,953,LC,"Compound Eyes, Shed Skin",Bug,False
+rabsca,954,ZU,"Synchronize, Telepathy","Bug, Psychic",True
+flittle,955,NFE,"Anticipation, Frisk, Speed Boost",Psychic,False
+espathra,956,Uber,"Opportunist, Frisk, Speed Boost",Psychic,True
+tinkatink,957,LC,"Mold Breaker, Own Tempo, Pickpocket","Fairy, Steel",False
+tinkatuff,958,NFE,"Mold Breaker, Own Tempo, Pickpocket","Fairy, Steel",False
+tinkaton,959,UU,"Mold Breaker, Own Tempo, Pickpocket","Fairy, Steel",True
+drowzee,96,LC,"Insomnia, Forewarn, Inner Focus",Psychic,False
+wiglett,960,LC,"Gooey, Rattled, Sand Veil",Water,False
+wugtrio,961,ZU,"Gooey, Rattled, Sand Veil",Water,True
+bombirdier,962,PU,"Big Pecks, Keen Eye, Rocky Payload","Flying, Dark",True
+finizen,963,LC,Water Veil,Water,False
+palafin-zero,964,Uber,Zero to Hero,Water,True
+varoom,965,LC,"Overcoat, Slow Start","Steel, Poison",False
+revavroom,966,UU,"Overcoat, Filter","Steel, Poison",True
+cyclizar,967,RU,"Shed Skin, Regenerator","Dragon, Normal",True
+orthworm,968,ZU,"Earth Eater, Sand Veil",Steel,True
+glimmet,969,LC,"Toxic Debris, Corrosion","Rock, Poison",False
+hypno,97,ZU,"Insomnia, Forewarn, Inner Focus",Psychic,True
+glimmora,970,OU,"Toxic Debris, Corrosion","Rock, Poison",True
+greavard,971,LC,"Pickup, Fluffy",Ghost,False
+houndstone,972,NU,"Sand Rush, Fluffy",Ghost,True
+flamigo,973,NU,"Scrappy, Tangled Feet, Costar","Flying, Fighting",True
+cetoddle,974,LC,"Thick Fat, Snow Cloak, Sheer Force",Ice,False
+cetitan,975,NUBL,"Thick Fat, Slush Rush, Sheer Force",Ice,True
+veluza,976,ZU,"Mold Breaker, Sharpness","Water, Psychic",True
+dondozo,977,OU,"Unaware, Oblivious, Water Veil",Water,True
+tatsugiri-curly,978,PU,"Commander, Storm Drain","Dragon, Water",True
+tatsugiri-droopy,978,PU,"Commander, Storm Drain","Dragon, Water",True
+tatsugiri-stretchy,978,PU,"Commander, Storm Drain","Dragon, Water",True
+annihilape,979,Uber,"Vital Spirit, Inner Focus, Defiant","Fighting, Ghost",True
+clodsire,980,UU,"Poison Point, Water Absorb, Unaware","Poison, Ground",True
+farigiraf,981,ZU,"Cud Chew, Armor Tail, Sap Sipper","Normal, Psychic",True
+dudunsparce-two-segment,982,NU,"Serene Grace, Run Away, Rattled",Normal,True
+dudunsparce-three-segment,982,NU,"Serene Grace, Run Away, Rattled",Normal,True
+kingambit,983,OU,"Defiant, Supreme Overlord, Pressure","Dark, Steel",True
+great-tusk,984,OU,Protosynthesis,"Ground, Fighting",True
+scream-tail,985,NU,Protosynthesis,"Fairy, Psychic",True
+brute-bonnet,986,ZU,Protosynthesis,"Grass, Dark",True
+flutter-mane,987,Uber,Protosynthesis,"Ghost, Fairy",True
+slither-wing,988,UU,Protosynthesis,"Bug, Fighting",True
+sandy-shocks,989,UU,Protosynthesis,"Electric, Ground",True
+iron-treads,990,OU,Quark Drive,"Ground, Steel",True
+iron-bundle,991,Uber,Quark Drive,"Ice, Water",True
+iron-hands,992,UUBL,Quark Drive,"Fighting, Electric",True
+iron-jugulis,993,UU,Quark Drive,"Dark, Flying",True
+iron-moth,994,OU,Quark Drive,"Fire, Poison",True
+iron-thorns,995,NUBL,Quark Drive,"Rock, Electric",True
+frigibax,996,LC,"Thermal Exchange, Ice Body","Dragon, Ice",False
+arctibax,997,NFE,"Thermal Exchange, Ice Body","Dragon, Ice",False
+baxcalibur,998,Uber,"Thermal Exchange, Ice Body","Dragon, Ice",True
+gimmighoul,999,LC,Rattled,Ghost,False
+gimmighoul-roaming,999,LC,Run Away,Ghost,True
