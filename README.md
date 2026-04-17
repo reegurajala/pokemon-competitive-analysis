@@ -9,9 +9,9 @@ Data collected from PokeAPI and Smogon, analyzed using Python and pandas across
 
 | Project | Focus | Pokemon Analyzed |
 |---|---|---|
-| [Part 1 — Base Stat Analysis](#) | Custom Power Score metric, stat correlations | 1,025 (Gen 1-9) |
-| [Part 2 — Smogon Tier Analysis](#) | Tier placement, abilities, typing | 848 |
-| [Part 3 — Move Pool Analysis](#) | Move access, competitive move categories | 847 |
+| [Part 1 — Base Stat Analysis] | Custom Power Score metric, stat correlations | 1,025 (Gen 1-9) |
+| [Part 2 — Smogon Tier Analysis] | Tier placement, abilities, typing | 848 |
+| [Part 3 — Move Pool Analysis] | Move access, competitive move categories | 847 |
 
 ## Tools Used
 - Python, pandas, matplotlib, seaborn
